@@ -31,3 +31,5 @@ merge_package https://github.com/Beginner-Go/luci-app-tencentddns
 merge_package https://github.com/sundaqiang/openwrt-packages/trunk/luci-app-services-wolplus
 merge_package https://github.com/coolsnowwolf/lede/trunk/package/lean/ntfs3-mount
 merge_package https://github.com/coolsnowwolf/lede/trunk/package/lean/ntfs3
+merge_package https://github.com/kenzok8/openwrt-packages
+merge_package https://github.com/kenzok8/small
